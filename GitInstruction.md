@@ -2,7 +2,7 @@
 
 ## 1. Создание веток
 
-* *git branch branch_name* - команда, создающая новую ветку с именем *branch_name*
+* *git branch branch_name* -  команда,  создающая  новую  ветку с именем *branch_name*
 
 ## 2. Слияние веток
 
